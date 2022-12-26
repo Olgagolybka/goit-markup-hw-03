@@ -34,6 +34,10 @@ img {
 
 /* Header */
 
+.borderbot{
+  border-bottom: 1px solid #ececec;
+}
+
 /* Logo */
 
 .logo {
@@ -64,7 +68,7 @@ img {
 .main-nav {
   display: flex;
   align-items: center;
-  border-bottom: 1px solid #ececec;
+  
 }
 
 .site-nav {
