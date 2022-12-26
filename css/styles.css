@@ -34,7 +34,7 @@ img {
 
 /* Header */
 
-.borderbot{
+.borderbot {
   border-bottom: 1px solid #ececec;
 }
 
@@ -68,7 +68,6 @@ img {
 .main-nav {
   display: flex;
   align-items: center;
-  
 }
 
 .site-nav {
@@ -183,7 +182,6 @@ img {
   color: var(--title-text-color);
   background-color: #f5f4fa;
 
-  
   padding: 6px 22px;
   border-radius: 4px;
   border: 0;
@@ -200,11 +198,10 @@ img {
 }
 
 .button.secondary:hover,
-.button.secondary:focus{
-  color:#ffffff;
+.button.secondary:focus {
+  color: #ffffff;
   background-color: var(--accent-color);
 }
-
 
 /* Sections */
 .section {
